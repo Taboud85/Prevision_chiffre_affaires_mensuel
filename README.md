@@ -1,4 +1,4 @@
-# prevision_chiffre_affaire_from_CSV
+# prevision_chiffre_affaires
 
 L'application permet de créer des prévisions de CA mensuel, en fonction de factures récurentes périodiques.
 
